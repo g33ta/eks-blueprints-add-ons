@@ -85,7 +85,7 @@ externalSecrets:
 
 # Gatekeeper Values
 gatekeeper:
-  enable: false
+  enable: true
   clusterName:
 
 # Nginx Values
